@@ -1,0 +1,19 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="@string/pref_category_notif"
+        android:title="@string/pref_category_notif">
+
+        <!-- A 'parent' preference, which enables/disables child preferences (below) when checked/unchecked. -->
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="@string/pref_key_notif"
+            android:title="@string/pref_title_notif" />
+
+
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

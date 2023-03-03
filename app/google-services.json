@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652410104317",
+    "project_id": "tour-e2661",
+    "storage_bucket": "tour-e2661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652410104317:android:e0a3619376e13dc89bd194",
+        "android_client_info": {
+          "package_name": "com.app.thecity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652410104317-vjojpmqkh0562nadd6heabhav5r50e3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZQDSJoTjL7j_wkSsnQW8mqSXRnShSrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652410104317-vjojpmqkh0562nadd6heabhav5r50e3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
